@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Nolithando Tshabalala 👋
 
-<!--
-**uthando-codes/uthando-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Health Systems Science Graduate | Lifelong Learner
 
-Here are some ideas to get you started:
+I’m an emerging data scientist with a background in **Health Systems Science** and a growing specialization in **data science, statistical analysis, and programming**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey into tech is driven by curiosity, resilience, and a strong passion for transforming raw data into meaningful insights that support smarter decision-making.
+
+Currently, I’m pursuing a **Postgraduate Diploma in Data Science at the University of the Witwatersrand**, where I’m building practical expertise in:
+
+* Python for Data Science
+* Statistical Learning
+* Machine Learning Fundamentals
+* Data Management and SQL
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Statistical Modelling
+* Quantitative Research Methods
+* Data Visualisation
+* Data Ethics and Responsible AI
+
+## 🚀 What I'm Currently Working On
+
+* Building hands-on **Python data science projects**
+* Strengthening my **SQL and machine learning fundamentals**
+* Developing a strong GitHub portfolio for data science opportunities
+* Applying analytical thinking to real-world datasets
+
+## 🛠 Tech Stack
+
+**Languages & Tools**
+
+* Python
+* SQL (learning)
+* Stata
+* Delphi
+* Microsoft Excel
+* Jupyter Notebook
+* Git & GitHub
+
+**Python Libraries**
+
+* Pandas
+* NumPy
+* Matplotlib
+
+## 📂 Featured Projects
+
+### FIFA 21 Data Cleaning & Exploratory Analysis
+
+Cleaning, transforming, and analysing player data to uncover performance trends.
+
+### Python Data Science Portfolio
+
+A collection of notebooks showcasing:
+
+* Data cleaning
+* Exploratory analysis
+* Statistical analysis
+* Problem-solving with Python
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Advanced SQL
+* Data Engineering fundamentals
+* Predictive modelling
+
+## 💡 Beyond Tech
+
+I’m passionate about:
+
+* Leadership development
+* Mentorship
+* Continuous learning
+* Building solutions through analytical thinking
+
+
+*"Every dataset tells a story. I’m learning how to uncover it."*
+
