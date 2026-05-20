@@ -21,10 +21,7 @@ Currently, I’m pursuing a **Postgraduate Diploma in Data Science at the Univer
 
 ## 🚀 What I'm Currently Working On
 
-* Building hands-on **Python data science projects**
-* Strengthening my **SQL and machine learning fundamentals**
-* Developing a strong GitHub portfolio for data science opportunities
-* Applying analytical thinking to real-world datasets
+* Regression Project
 
 ## 🛠 Tech Stack
 
