@@ -28,18 +28,18 @@ Currently, I’m pursuing a **Postgraduate Diploma in Data Science at the Univer
 **Languages & Tools**
 
 * Python
-* SQL (learning)
-* Stata
-* Delphi
+* SQL
+* PowerBi
 * Microsoft Excel
-* Jupyter Notebook
 * Git & GitHub
+* R
 
 **Python Libraries**
 
 * Pandas
 * NumPy
 * Matplotlib
+* Seaborn
 
 ## 📂 Featured Projects
 
@@ -55,13 +55,6 @@ A collection of notebooks showcasing:
 * Exploratory analysis
 * Statistical analysis
 * Problem-solving with Python
-
-## 🌱 Currently Learning
-
-* Machine Learning
-* Advanced SQL
-* Data Engineering fundamentals
-* Predictive modelling
 
 ## 💡 Beyond Tech
 
